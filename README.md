@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayyed Sajdeen</h1>
 
-<h3 align="center">An aspiring software engineer with practical experience building cross-platform mobile applications using a React Native full-Stack web application. Passionate about delivering smooth UI/UX and scalable features. Expanding skills in Data Structure & Algorithms.</h3>
+<h3 align="center">An software engineer with practical experience building cross-platform full-Stack mobile applications  & full-Stack web applications. Passionate about delivering smooth UI/UX and scalable features. Expanding skills in Data Structure & Algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajdeen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sajdeen-dev" /> </p>
 
